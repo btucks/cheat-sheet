@@ -1,0 +1,40 @@
+body {
+    background-color: #FFFFA5;
+}
+
+h1 {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.columns {
+    background-color: #A5A5FF;
+    height: 70px;
+}
+
+.steps {
+    background-color: #A5FFD2;
+    height: 70px;
+}
+
+.congrats {
+    background-color: #A5FFA5;
+    height: 70px;
+}
+
+table {
+    text-align: center;
+    width: 100%;
+}
+
+.htmltags {
+    font-family: monospace;
+    background-color: #FFA5D2;
+    height: 70px;
+    width: 115px;
+}
+
+img {
+    height: 70px;
+    width: 115px;
+}
